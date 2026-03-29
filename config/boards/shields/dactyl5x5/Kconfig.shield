@@ -1,5 +1,5 @@
 config SHIELD_DACTYL5X5_LEFT
-    def_bool $(shields_list_contains,dactyl5x5left)
+    def_bool $(shields_list_contains,dactyl5x5_left)
 
 config SHIELD_DACTYL5X5_RIGHT
-    def_bool $(shields_list_contains,dactyl5x5right)
+    def_bool $(shields_list_contains,dactyl5x5_right)
